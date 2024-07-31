@@ -61,7 +61,7 @@ We have worked on several impactful projects. Here are a few examples:
 
 - **Adolfo Ibañez Vila**, CEO
 - **David Cervera Vila**, CTO, [GitHub](https://github.com/abierce)
-- **Sebastian Jans**, CEO, [GitHub](https://github.com/sebajans)
+- **Sebastian Jans**, CDO, [GitHub](https://github.com/sebajans)
 
 ## Contact Details
 
